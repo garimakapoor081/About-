@@ -1,4 +1,4 @@
-# About-
+# About
 Hi 👋, I'm Garima Kapoor
 
 I am a dedicated Data Scientist with a knack for uncovering patterns and trends that drive smarter decisions.
@@ -11,7 +11,7 @@ I am a dedicated Data Scientist with a knack for uncovering patterns and trends 
 
 • Machine Learning : I'm familiar in various machine learning techniques like Regression (predicting values), Classification (sorting data into categories), Clustering (grouping similar data), Dimensionality Reduction (simplifying complex data), and Model Selection (choosing the right predictive model).
 
-• Database : I can work with MySQL, a popular database system to handle and retrieve data effectively.
+• Database : I can work with MySQL, Excel, a popular database system to handle and retrieve data effectively.
 
 • BI Tool : I'm proficient in using Microsoft Power BI, a tool that helps in turning data into actionable insights through interactive visualizations.
 
